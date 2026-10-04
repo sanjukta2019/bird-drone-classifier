@@ -1,0 +1,10 @@
+train: data/train/images
+val: data/valid/images
+
+nc: 2
+names: ['bird', 'drone']
+
+
+
+
+#colors: [[255, 0, 0], [0, 255, 0]]  # RGB colors for visualization

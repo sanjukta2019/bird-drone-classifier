@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO dataset
+data/train/images/
+data/train/labels/
+data/valid/images/
+data/valid/labels/
+data/test/images/
+data/test/labels/
+
+# YOLO cache files
+*.cache
+
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
