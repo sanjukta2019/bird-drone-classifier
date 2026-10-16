@@ -30,7 +30,7 @@ The system is designed for use cases such as airspace monitoring, perimeter secu
 - PyTorch
 - OpenCV
 - NumPy
-- Flask or Streamlit (optional application layer)
+- Streamlit (optional application layer)
 
 ---
 
